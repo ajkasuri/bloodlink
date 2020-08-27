@@ -1,2 +1,2 @@
 # bloodlink
-this i blood donation app API's
+this is blood donation app API's
